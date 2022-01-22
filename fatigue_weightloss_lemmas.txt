@@ -1,0 +1,9 @@
+feel     -> feel  feels feeling feelings  felt
+become   -> become  becoming  becomes
+weak     -> weak  weaker  weakness
+general  -> general generalized generally
+lose     -> lose  loss  losing
+decrease -> decrease  decreased decreasing
+low      -> low lower lowest
+fatigue  -> fatigue fatigued
+tire     -> tire  tired tiring
